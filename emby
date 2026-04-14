@@ -1,61 +1,26 @@
-# NAME: Emby
-# AUTHOR: justdoiting
-# REPO: https://github.com/justdoiting/emby-rules
-# UPDATED: 2025-06-06 09:18:49
-# DOMAIN: 3
-# DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 45
-# PROCESS-NAME: 1
-# TOTAL: 52
-DOMAIN,023168.xyz
-DOMAIN,emby.lcloud.wiki
-DOMAIN,notnetflix.cos.cat
-DOMAIN-SUFFIX,123456.al
-DOMAIN-SUFFIX,285286.xyz
-DOMAIN-SUFFIX,agahk1.jmsooo.com
-DOMAIN-SUFFIX,agajp1.jmsooo.com
-DOMAIN-SUFFIX,agasg1.jmsooo.com
-DOMAIN-SUFFIX,aws.jmsooo.com
-DOMAIN-SUFFIX,cf1.jmsooo.com
-DOMAIN-SUFFIX,cristiamo.xyz
-DOMAIN-SUFFIX,emby.cjpc.cc
-DOMAIN-SUFFIX,emby.cjpc.tv
-DOMAIN-SUFFIX,emby.cjpc.xyz
-DOMAIN-SUFFIX,emby.cristiamo.top
-DOMAIN-SUFFIX,emby.flowercloud.yt
-DOMAIN-SUFFIX,emby.immtel.com
-DOMAIN-SUFFIX,emby.maying.club
-DOMAIN-SUFFIX,emby.mcwy.me
-DOMAIN-SUFFIX,emby.mdss.cloud
-DOMAIN-SUFFIX,emby.neko.edu.rs
-DOMAIN-SUFFIX,emby.nexitally.com
-DOMAIN-SUFFIX,emby.nyancat.net
-DOMAIN-SUFFIX,emby.ok.edu.hk
-DOMAIN-SUFFIX,emby.paoche.ooo
-DOMAIN-SUFFIX,emby.prprcloud.com
-DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,emby.xeton.dev
-DOMAIN-SUFFIX,emby.ytoo.li
-DOMAIN-SUFFIX,embymv.tk
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,embyserver.ga
-DOMAIN-SUFFIX,hinet.jmsooo.com
-DOMAIN-SUFFIX,imetyou.top
-DOMAIN-SUFFIX,jellyfin.asia
-DOMAIN-SUFFIX,jellyfin.xeton.dev
-DOMAIN-SUFFIX,line.emby.men
-DOMAIN-SUFFIX,mickeycloud.com
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,ntt1.jmsooo.com
-DOMAIN-SUFFIX,ohhhh.org
-DOMAIN-SUFFIX,peachmv.me
-DOMAIN-SUFFIX,pilipiliultra.com
-DOMAIN-SUFFIX,plusmedia.site
-DOMAIN-SUFFIX,poloemby.xyz
-DOMAIN-SUFFIX,pornemby.club
-DOMAIN-SUFFIX,servers.xeton.dev
-DOMAIN-SUFFIX,xmsl.org
-DOMAIN-KEYWORD,emby.wtf
-DOMAIN-KEYWORD,jmsooo
-DOMAIN-KEYWORD,odysseyplus
-PROCESS-NAME,com.mb.android
+DOMAIN-KEYWORD,023168,emby # 喜鹊
+DOMAIN-KEYWORD,223789,emby # 喜鹊
+DOMAIN,m.mobaiemby.site,emby # 墨云阁主线路
+DOMAIN,myg2.mobaiemby.site,emby # 墨云阁主线路
+DOMAIN-KEYWORD,cn2gias,emby # 守候主线
+DOMAIN,115cdn.de,DIRECT # 映月
+DOMAIN,rais115.huuwnb.cn,DIRECT # 众映
+DOMAIN,server3.cn2gias.uk,emby # sntp机场服
+DOMAIN,cn-1.lyrebirdemby.online,emby # 琴鸟
+DOMAIN,cdn.lyrebirdemby.com,emby # 琴鸟
+DOMAIN,emby.younoyes.com,emby # youno
+DOMAIN,emby.my,emby # 月饼
+DOMAIN,speedtest-babybus.apple-cdn.net,DIRECT # 月饼
+DOMAIN,spme.mebimmer.de,emby # 宝马服
+DOMAIN,gy.meowfly.de,emby # 飞喵
+DOMAIN,cdn.liminalnet.pro,emby # 临境PRO
+DOMAIN,tanhuatv.site,emby # 探花
+DOMAIN,emby.jcnf.xyz,emby # 神秘礼物
+DOMAIN,paoluma.de,emby # 跑路
+DOMAIN,ch.feiyue.lol,emby # 飞跃
+DOMAIN,cfqm6748.chuncheon123.xyz,emby # 青梅
+DOMAIN,cfzm261.chuncheon123.xyz,emby # 竹马
+DOMAIN,hgyuyr3yuii785.chuncheon241.top,emby # 煮酒
+DOMAIN,emby.younoyes.com,emby # youno
+DOMAIN,six.sixsixsix.site,emby # alphax
+DOMAIN,a.drama666.top,emby # alpha短剧
